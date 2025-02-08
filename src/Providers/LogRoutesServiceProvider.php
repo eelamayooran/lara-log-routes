@@ -1,6 +1,6 @@
 <?php
 
-namespace LogRoutesPackage\Providers;
+namespace Eelamayooran\LaraLogRoutes\Providers;
 
 use Illuminate\Support\ServiceProvider;
 use Illuminate\Support\Facades\Route;
