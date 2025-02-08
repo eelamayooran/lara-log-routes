@@ -14,4 +14,4 @@ A Laravel package for log routes, specifically designed for **development enviro
 You can install the package in your Laravel project by requiring it as a development dependency:
 
 ```bash
-composer require yourvendor/log-routes-package --dev
+composer require eelamayooran/lara-log-routes:dev-main
