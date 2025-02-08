@@ -29,7 +29,7 @@ class LogRoutesServiceProvider extends ServiceProvider
         // Only load the routes in development or local environment
         if (app()->environment('local', 'development')) {
             // Define the routes
-            $this->loadRoutesFrom(__DIR__.'/../../routes/log-routes.php');
+            $this->loadRoutesFrom(__DIR__.'/../routes/log-routes.php');
         }
     }
 }
